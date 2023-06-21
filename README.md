@@ -11,5 +11,3 @@ The performance of the classiification has increased steadily by using various m
 | XGBoost with SMOTE balancing | 0.95512 |
 
 The biggest challenge in predicting the failure is the imbalance of the dataset. The failed machines are very low in number compared to the non failed. To resolve this, I tried to implement data balancing with SMOTE. 
-
-![Alt text](image.png)
