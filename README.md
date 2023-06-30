@@ -15,6 +15,10 @@ The biggest challenge in predicting the failure is the imbalance of the dataset.
 2. Added new features which which reflect the relationship of the features.
 3. Dropped features which didn't have any corelation to Machine Failure.
 
+Use:
+- The LR_XGBoost_LightGBM.ipynb has all the models as mentioned in the table.
+- LightGBM.ipynb is the lightGBM model with extra (experimental) feature engineering which is WIP. 
+
 Requirements:
 Python
 scikit-learn
